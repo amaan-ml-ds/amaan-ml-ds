@@ -1,4 +1,4 @@
-# Hi there, I'm Aman Shaikh 👋
+# Hi there, I'm Amaan Shaikh 
 
 **Data Science & Machine Learning Enthusiast**
 
