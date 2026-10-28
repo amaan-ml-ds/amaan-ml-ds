@@ -8,7 +8,7 @@ I focus on building reliable, data-driven solutions, ranging from exploratory da
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL (mysql , postgre) 
 - **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Power BI, Tableau, MS Excel
 - **Machine Learning & Tuning:** Scikit-Learn, Random Forest, XGBoost, LightGBM, Optuna
 - **Databases:** PostgreSQL, SQLite, MongoDB Atlas
@@ -47,7 +47,7 @@ I focus on building reliable, data-driven solutions, ranging from exploratory da
 
 ### 🎓 Education
 
-* **Master of Business Administration (MBA - IT)** | *Currently Enrolled (1st Year)*
+* **Master of Business Administration (MBA - IT)** | *Currently Enrolled *
 * **Bachelor of Business Administration (BBA - Computer Applications)** | *CGPA: 7.36*
 
 ---
